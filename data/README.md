@@ -10,7 +10,7 @@ Los datos provienen del estudio suministrado como material de trabajo para el cu
 | `manager_survey_data.csv` | Encuesta aplicada a jefes / responsables directos – incluye evaluación del rendimiento. |
 | `general_data.csv` | Información general de los empleados: edad, salario, cargo, años en la empresa, etc. |
 | `time_work.csv` | Métricas de tiempo y uso de jornada laboral durante el último año. |
-| `diccionario_datos.xlsx` | Diccionario que describe cada columna, su significado y niveles categóricos. (Usado como referencia para este documento) |
+
 
 ---
 
@@ -67,3 +67,4 @@ Para una correcta carga de datos en los notebooks:
 ```python
 import pandas as pd
 df = pd.read_csv("datos/orig_
+
