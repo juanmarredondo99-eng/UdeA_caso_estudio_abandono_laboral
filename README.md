@@ -37,11 +37,12 @@ UdeA_caso_estudio_abandono_laboral/
 └── README.md                  # Este documento principal
 ```
 ---
-##👤 Autor
+## 👤 Autor
 ---
 Juan Manuel Arredondo Londoño
 Estudiante de Ingeniería Industrial – Análisis y Ciencia de Datos
 📍 Medellín – Colombia
 ---
+
 
 
