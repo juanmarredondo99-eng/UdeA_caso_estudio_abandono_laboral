@@ -14,11 +14,6 @@ El propósito del proyecto es analizar los factores asociados al retiro voluntar
 - Entrenar un modelo predictivo (machine learning) para estimar probabilidad de abandono.
 
 ---
-## 👤 Author
-Juan Manuel Arredondo  
-Junior Data Analyst
-
----
 ## 📂 Estructura del Repositorio
 
 ```bash
@@ -40,4 +35,8 @@ UdeA_caso_estudio_abandono_laboral/
 │
 ├── requirements.txt           # Dependencias necesarias para reproducir el análisis
 └── README.md                  # Este documento principal
-
+```
+---
+## 👤 Author
+Juan Manuel Arredondo  
+Junior Data Analyst
