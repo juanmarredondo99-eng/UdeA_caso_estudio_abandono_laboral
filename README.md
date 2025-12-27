@@ -39,6 +39,7 @@ UdeA_caso_estudio_abandono_laboral/
 
 👤 Autor
 
-**Juan Manuel Arredondo Londoño**
-**Estudiante** de Ingeniería Industrial – Universidad de Antioquia
-**Enfoque académico:** Analítica de datos, dashboards y modelos aplicados
+##Juan Manuel Arredondo Londoño##
+##Estudiante de Ingeniería Industrial – Universidad de Antioquia
+##Enfoque académico:** Analítica de datos, dashboards y modelos aplicados
+
